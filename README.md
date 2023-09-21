@@ -27,6 +27,9 @@ The BMI Calculator Web App not only reinforces my practical skills in web develo
 Try It Out:
 Experience the BMI Calculator Web App and gain insights into your health status
 
+<br>
+<img src="./img/1.png">
+
 
 
 
