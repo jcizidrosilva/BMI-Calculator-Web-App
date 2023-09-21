@@ -31,7 +31,7 @@ Experience the BMI Calculator Web App and gain insights into your health status
 <img src="./img/1.png">
 
 <br>
-<h3><a href="#" target="_blank">Explore our Project</a></h3>
+<h3><a href="https://jcizidrosilva.github.io/BMI-Calculator-Web-App/" target="_blank">Explore our Project</a></h3>
 
 
 
