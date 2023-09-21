@@ -1,13 +1,10 @@
 # BMI Calculator Web App
  I'm thrilled to introduce my BMI Calculator Web App project, a result of my dedicated coursework in HTML, CSS, and JavaScript. 📊💻
 
- Description:
-I'm thrilled to introduce my BMI Calculator Web App project, a result of my dedicated coursework in HTML, CSS, and JavaScript. 📊💻
-
 Project Overview:
 As a passionate learner, I embarked on the journey to develop a user-friendly Body Mass Index (BMI) Calculator web application as part of my comprehensive web development course. This tool empowers users to swiftly assess their BMI and gain valuable insights into their health status by inputting their height and weight.
 
-Key Features:
+Key Features: <br>
 📏 User-Friendly Interface: The web app features an intuitive design, making it easy for users to enter their height and weight values.
 
 🔢 Precise Calculations: The BMI calculations are meticulously accurate, taking into consideration both height and weight inputs.
